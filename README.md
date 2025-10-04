@@ -16,6 +16,8 @@
 
 
 ---
+### Note
+This script runs on Ubuntu24 or newer
 
 ## 📖 Usage Examples
 
