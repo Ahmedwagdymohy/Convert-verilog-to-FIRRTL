@@ -14,19 +14,6 @@
 - **Installation only** (`--install-only`)
 - **Conversion only** (`--convert-only`)
 
----
-
-## 🛡️ Robust Error Handling
-- Exits immediately on errors.  
-- Clear error messages with timestamps.  
-- Automatic cleanup on failure.  
-
----
-
-## 📊 Progress Visibility
-- Clear section headers.  
-- Step-by-step progress indicators.  
-- Success, warning, and error messages.  
 
 ---
 
