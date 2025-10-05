@@ -44,7 +44,7 @@ sudo ldconfig
 
 sudo cp kahypar/application/KaHyPar /usr/local/bin/kahypar
 
-sudo ln -s /kahypar/application/KaHyPar /usr/local/bin/KaHyPar
+sudo ln -sf kahypar/application/KaHyPar /usr/local/bin/KaHyPar
 
 export PATH=kahypar/application:$PATH
 
